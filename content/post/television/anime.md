@@ -1,10 +1,10 @@
-+++
-title = "My Favorite Anime"
-categories = []
-tags = []
-date = 2017-10-24
-description = ""
-+++
+---
+title: "My Favorite Anime"
+categories: []
+tags: []
+date: 2017-10-24
+description: ""
+---
 
 I also really like Japanese animation, or anime, and these are some of my favorites!
 

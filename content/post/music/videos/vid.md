@@ -1,10 +1,10 @@
-+++
-title = "My Favorite Music Videos"
-categories = []
-tags = []
-description = ""
-date = 2017-10-24
-+++
+---
+title: "My Favorite Music Videos"
+categories: []
+tags: []
+description: ""
+date: 2017-10-24
+---
 
 These are some of my favorite music videos!
 

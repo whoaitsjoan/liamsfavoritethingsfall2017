@@ -1,10 +1,10 @@
-+++
-title = "Directing"
-categories = []
-tags = []
-date =  2017-10-24
-description = ""
-+++
+---
+title: "Directing"
+categories: []
+tags: []
+date:  2017-10-24
+description: ""
+---
 
 I want to be a director when I grow up, specifically making trailers!
 

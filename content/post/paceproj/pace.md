@@ -1,10 +1,10 @@
-+++
-title = "Pace Project"
-categories = []
-tags = []
-date = 2017-10-24
-description = ""
-+++
+---
+title: "Pace Project"
+categories: []
+tags: []
+date: 2017-10-24
+description: ""
+---
 
 [insert group photo here]
 

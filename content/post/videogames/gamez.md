@@ -1,7 +1,6 @@
 ---
 title: "Gamez"
 date: 2017-10-24T10:30:09-04:00
-draft: true
 ---
 
 Destiny 2:

@@ -1,7 +1,6 @@
 ---
-title: "Tv"
+title: "Television"
 date: 2017-10-24T10:33:48-04:00
-draft: true
 ---
 
 King of the Hill: 

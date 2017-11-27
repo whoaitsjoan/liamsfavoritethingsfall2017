@@ -1,10 +1,10 @@
-+++
-title = "My Favorite Music"
-categories = []
-tags = []
-date = 2017-10-24
-description = ""
-+++
+---
+title: "My Favorite Music"
+categories: []
+tags: []
+date: 2017-10-24
+description: ""
+---
 
 Prog rock:
 I really like King Crimson, Rush, Pink Floyd
