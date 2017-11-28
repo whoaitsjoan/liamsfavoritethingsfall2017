@@ -4,3 +4,8 @@ title = "Liam's Favorite Things"
 theme = "retrofulhugo"
 relativeURLs = "true"
 canonifyURLs = "true"
+
+[Params]
+  subtitle = ""
+  logo = "img/srm.png"
+  favicon = "img/favicon.ico"
