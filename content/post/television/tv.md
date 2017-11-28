@@ -10,12 +10,11 @@ he's really funny!
 
 South Park:
 It's a really funny show! A very crude show, but that's why it's really good.
-<insert kick the baby clip>
  
 Family Ties:
 Now this is a classic sitcom, straight out of the 80's. Michael J. Fox is really good in this show. 
 I really like the family dynamic on this show, it makes it more interesting for me than other sitcoms.
-<insert family ties gif>
+![](https://s18.postimg.org/s7vt6t0e1/giphy_3.gif)
 
 Reboot:
 This early computer animation is really cool. I think it still holds up today. And sci-fi is always fun!
