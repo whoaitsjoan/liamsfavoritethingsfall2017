@@ -15,12 +15,12 @@ Most of them are horror movie trailers, and it's a lot of fun.
 And it's really easy too, it only takes me about five minutes once I have all the clips I'm looking for.
 
 
-[horror movie trailer here]
+{{<youtube zl4askYOZX0>}}
 
 This is a recut trailer for Stephen King's Riding the Bullet, 
 using a bunch of different movie clips from the 60's and 70's. 
 I chose because it shows a lot of people screaming at the same time.
 That trailer is already really funny, and that's why I decided to make clips for it. 
 
-[2nd horror movie trailer here]
+{{<youtube o-LuLglAeKU>}}
 

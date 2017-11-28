@@ -1,4 +1,6 @@
-baseURL = "/"
+baseURL = ""
 languageCode = "en-us"
 title = "Liam's Favorite Things"
 theme = "retrofulhugo"
+relativeURLs = "true"
+canonifyURLs = "true"
