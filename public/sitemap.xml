@@ -4,36 +4,46 @@
   
   <url>
     <loc>/post/aboutme/liam/</loc>
-    <lastmod>2017-11-14T00:00:00-05:00</lastmod>
+    <lastmod>2017-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/television/tv/</loc>
+    <lastmod>2017-10-24T10:33:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/videogames/gamez/</loc>
+    <lastmod>2017-10-24T10:30:09-04:00</lastmod>
   </url>
   
   <url>
     <loc>/post/movies/direct/</loc>
-    <lastmod>2017-10-24T00:00:00-04:00</lastmod>
+    <lastmod>2017-10-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/television/anime/</loc>
-    <lastmod>2017-10-24T00:00:00-04:00</lastmod>
+    <lastmod>2017-10-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/music/mus/</loc>
-    <lastmod>2017-10-24T00:00:00-04:00</lastmod>
+    <lastmod>2017-10-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/music/videos/vid/</loc>
-    <lastmod>2017-10-24T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/paceproj/pace/</loc>
-    <lastmod>2017-10-24T00:00:00-04:00</lastmod>
+    <lastmod>2017-10-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/movies/mov/</loc>
+    <lastmod>2017-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/paceproj/pace/</loc>
     <lastmod>2017-10-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -44,13 +54,13 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-11-14T00:00:00-05:00</lastmod>
+    <lastmod>2017-11-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2017-11-14T00:00:00-05:00</lastmod>
+    <lastmod>2017-11-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

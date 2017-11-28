@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Liam&#39;s Favorite Things</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Nov 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 14 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>About Me</title>
       <link>/post/aboutme/liam/</link>
-      <pubDate>Tue, 14 Nov 2017 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 14 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/aboutme/liam/</guid>
       <description>[Picture of Liam in Cafeteria]
@@ -25,9 +25,27 @@ My website talks about all the different things that I like, I hope you enjoy it
     </item>
     
     <item>
+      <title>Television</title>
+      <link>/post/television/tv/</link>
+      <pubDate>Tue, 24 Oct 2017 10:33:48 -0400</pubDate>
+      
+      <guid>/post/television/tv/</guid>
+      <description>King of the Hill: The animation is really good in this one. The characters are really good, too. Bobby Hill is probably my favorite, he&amp;rsquo;s really funny! South Park: It&amp;rsquo;s a really funny show! A very crude show, but that&amp;rsquo;s why it&amp;rsquo;s really good. Family Ties: Now this is a classic sitcom, straight out of the 80&amp;rsquo;s. Michael J. Fox is really good in this show. I really like the family dynamic on this show, it makes it more interesting for me than other sitcoms.</description>
+    </item>
+    
+    <item>
+      <title>Gamez</title>
+      <link>/post/videogames/gamez/</link>
+      <pubDate>Tue, 24 Oct 2017 10:30:09 -0400</pubDate>
+      
+      <guid>/post/videogames/gamez/</guid>
+      <description>Destiny 2: The weapons are the best! Riskrunner is my favorite exotic weapon, it does chain lightning damage. I love roaming around the different planets! Mario Kart 8: Best powerups! The Blue Shell is my favorite powerup. I can play with Mii characters, they&amp;rsquo;re my favorite racers. Call of Duty: Infinite Warfare: My favorite weapons are the RPR-Evo, MV4, Volk, VPR, Mauler, Titan, KBS Longbow. So many cool weapons! I also really the Zombies mode for the Pack-a-Punch .</description>
+    </item>
+    
+    <item>
       <title>Directing</title>
       <link>/post/movies/direct/</link>
-      <pubDate>Tue, 24 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/movies/direct/</guid>
       <description>I want to be a director when I grow up, specifically making trailers!
@@ -38,7 +56,7 @@ And it&amp;rsquo;s really easy too, it only takes me about five minutes once I h
     <item>
       <title>My Favorite Anime</title>
       <link>/post/television/anime/</link>
-      <pubDate>Tue, 24 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/television/anime/</guid>
       <description>I also really like Japanese animation, or anime, and these are some of my favorites!
@@ -50,7 +68,7 @@ Hyperdimension Neptunia I like it because it&amp;rsquo;s really funny and the an
     <item>
       <title>My Favorite Music</title>
       <link>/post/music/mus/</link>
-      <pubDate>Tue, 24 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/music/mus/</guid>
       <description>Prog rock: I really like King Crimson, Rush, Pink Floyd Classic rock: Deep Purple, Black Sabbath, Judas Preist
@@ -60,7 +78,7 @@ Vinyl: I like having records to play at home, and to collect the music I like. I
     <item>
       <title>My Favorite Music Videos</title>
       <link>/post/music/videos/vid/</link>
-      <pubDate>Tue, 24 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/music/videos/vid/</guid>
       <description> These are some of my favorite music videos!
@@ -68,16 +86,6 @@ Knights of Cydonia: This video is a really cool mix between a 1970&amp;rsquo;s I
   Breaking the Law: This video feels more like a classic heist film, it&amp;rsquo;s very cool!
   Tom Sawyer:   Limelight: I like this video because it feels more like you&amp;rsquo;re watching a live concert.
   </description>
-    </item>
-    
-    <item>
-      <title>Pace Project</title>
-      <link>/post/paceproj/pace/</link>
-      <pubDate>Tue, 24 Oct 2017 00:00:00 -0400</pubDate>
-      
-      <guid>/post/paceproj/pace/</guid>
-      <description>[insert group photo here]
-While I was at Pace this Fall, I got to work on a website with a student named Joan. We worked on the website for about 3 months. This is not my first time at Pace.</description>
     </item>
     
     <item>
@@ -89,6 +97,16 @@ While I was at Pace this Fall, I got to work on a website with a student named J
       <description>I really like movies, but I especially like movie trailers. Here are some of my favorites!
 The Fifth Element The music score by Eric Serra is very good, the special effects are amazing, even today. Bruce Willis and Milla Jovovich are both really amazing too.
   Spider Man: Homecoming It&amp;rsquo;s a really funny superhero movie. It doesn&amp;rsquo;t feel like a regular superhero movie either, more like an old John Hughes film.</description>
+    </item>
+    
+    <item>
+      <title>Pace Project</title>
+      <link>/post/paceproj/pace/</link>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/paceproj/pace/</guid>
+      <description>[insert group photo here]
+While I was at Pace this Fall, I got to work on a website with a student named Joan. We worked on the website for about 3 months. This is not my first time at Pace.</description>
     </item>
     
   </channel>
