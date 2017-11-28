@@ -25,6 +25,13 @@ The Force Awakens is up there after that. The music by John Williams is really e
 
 {{<youtube Z9WVZb_OBeg>}}
 
+##Star Wars: The Empire Strikes Back
+
+This is my favorite Star Wars of the original trilogy! 
+My favorite scene is on the bridge in Cloud City when Darth Vader reveals that he is Luke's father.
+
+{{<youtube WWLksS3wtWA>}}
+
 ## Blade Runner 2049
 
 It's a very futuristic film. The running time is a lot longer than the original, although I haven't seen the original yet. 
