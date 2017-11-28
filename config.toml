@@ -4,6 +4,7 @@ title = "Liam's Favorite Things"
 theme = "retrofulhugo"
 relativeURLs = "true"
 canonifyURLs = "true"
+sectionPagesMenu = "main"
 
 [Params]
   subtitle = ""
