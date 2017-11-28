@@ -22,4 +22,4 @@ This early computer animation is really cool. I think it still holds up today. A
 
 That 70's Show:
 It's a great show that takes in the 1970's, from 1976 to 1979. A great 90's sitcom.
-![](https://media.giphy.com/media/oVoe2ZrdYBOZW/giphy.gif)
+![](https://s18.postimg.org/o6eq192zd/giphy.gif)

@@ -10,7 +10,7 @@ I love roaming around the different planets!
 
 Mario Kart 8:
 Best powerups! The Blue Shell is my favorite powerup. I can play with Mii characters, they're my favorite racers.
-![](https://media.giphy.com/media/gUZ9cVpzSYnnO/giphy.gif)
+![](https://s18.postimg.org/8kxehajbd/giphy_2.gif)
 
 Call of Duty: Infinite Warfare:
 My favorite weapons are the RPR-Evo, MV4, Volk, VPR, Mauler, Titan, KBS Longbow. So many cool weapons! 
