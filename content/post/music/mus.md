@@ -8,8 +8,7 @@ description: ""
 
 Prog rock:
 I really like King Crimson, Rush, Pink Floyd
-<a href = http://tralfaz-archives.com/coverart/K/king_crim_courtf.jpg>
-
+![Alt text](http://tralfaz-archives.com/coverart/K/king_crim_courtf.jpg)
 Classic rock:
 Deep Purple, Black Sabbath, Judas Preist
 
