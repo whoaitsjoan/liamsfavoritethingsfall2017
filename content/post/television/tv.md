@@ -6,7 +6,7 @@ date: 2017-10-24T10:33:48-04:00
 King of the Hill: 
 The animation is really good in this one. The characters are really good, too. Bobby Hill is probably my favorite,
 he's really funny!
-<insert you're a loser clip>
+{{<youtube 8_7Orhey-g>}}
 
 South Park:
 It's a really funny show! A very crude show, but that's why it's really good.
@@ -22,4 +22,4 @@ This early computer animation is really cool. I think it still holds up today. A
 
 That 70's Show:
 It's a great show that takes in the 1970's, from 1976 to 1979. A great 90's sitcom.
-<insert star wars gif>
+<a href = https://media.giphy.com/media/oVoe2ZrdYBOZW/giphy.gif>
