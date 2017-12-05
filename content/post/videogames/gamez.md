@@ -1,6 +1,6 @@
 ---
 title: "My Favorite Video Games"
-date: 2017-10-24T10:30:09-04:00
+date: 2017-12-12
 ---
 
 Destiny 2:

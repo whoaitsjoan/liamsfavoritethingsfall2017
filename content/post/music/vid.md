@@ -3,7 +3,7 @@ title: "My Favorite Music Videos"
 categories: []
 tags: []
 description: ""
-date: 2017-10-24
+date: 2017-12-12
 ---
 
 These are some of my favorite music videos!
