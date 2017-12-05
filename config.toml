@@ -4,9 +4,53 @@ title = "Liam's Favorite Things"
 theme = "retrofulhugo"
 relativeURLs = "true"
 canonifyURLs = "true"
-sectionPagesMenu = "main"
 
 [Params]
   subtitle = ""
   logo = "img/srm.png"
   favicon = "img/favicon.ico"
+  
+[[menu.main]]
+  name = "About Me"
+  url = "/post/aboutme/liam"
+  weight = 1
+  
+[[menu.main]]
+  name = "Directing"
+  url = "/post/movies/direct"
+  weight = 2
+  
+[[menu.main]]
+  name = "Favorite Movies"
+  url = "/post/movies/mov"
+  weight = 3
+
+[[menu.main]]
+  name = "Favorite Music"
+  url = "/post/music/mus"
+  weight = 4
+  
+[[menu.main]]
+  name = "Favorite Music Videos"
+  url = "/post/music/vid"
+  weight = 5
+  
+[[menu.main]]
+  name = "Favorite TV Shows"
+  url = "/post/television/tv"
+  weight = 6
+  
+[[menu.main]]
+  name = "Favorite Anime"
+  url = "/post/television/anime"
+  weight = 7
+  
+[[menu.main]]
+  name = "Favorite Video Games"
+  url = "/post/videogames/gamez"
+  weight = 8
+  
+[[menu.main]]
+  name = "Pace Project"
+  url = "/post/paceproj/pace"
+  weight = 9

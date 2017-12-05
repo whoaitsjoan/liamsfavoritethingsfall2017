@@ -1,6 +1,7 @@
 ---
-title: "Gamez"
+title: "My Favorite Video Games"
 date: 2017-10-24T10:30:09-04:00
+menu: "main"
 ---
 
 Destiny 2:

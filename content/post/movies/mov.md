@@ -1,6 +1,7 @@
----
+--
 title: "My Favorite Trailers"
 date: 2017-10-24
+menu: "main"
 ---
 
 I really like movies, but I especially like movie trailers. Here are some of my favorites!
