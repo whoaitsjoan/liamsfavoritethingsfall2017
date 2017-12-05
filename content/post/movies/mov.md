@@ -24,7 +24,7 @@ Spider-Man is a really great superhero too, probably my favorite superhero.
 ## Star Wars: A New Hope
 
 It is the classic 70's space opera movie. This movie is my favorite of the original trilogy, followed by Empire Strikes Back and Return of the Jedi.
-The Force Awakens is up there after that. The music by John Williams is really epic, and is so iconic too. 
+The Force Awakens is up there after that. The music by John Williams is really epic and so iconic too. 
 
 {{<youtube Z9WVZb_OBeg>}}
 
