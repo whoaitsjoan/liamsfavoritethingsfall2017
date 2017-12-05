@@ -4,7 +4,6 @@ categories: []
 tags: []
 date: 2017-11-14
 description: ""
-menu: "main"
 ---
 
 [Picture of Liam in Cafeteria]

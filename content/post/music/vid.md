@@ -4,7 +4,6 @@ categories: []
 tags: []
 description: ""
 date: 2017-10-24
-menu: "main"
 ---
 
 These are some of my favorite music videos!

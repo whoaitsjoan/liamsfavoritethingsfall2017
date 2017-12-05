@@ -4,7 +4,6 @@ categories: []
 tags: []
 date: 2017-10-24
 description: ""
-menu: "main"
 ---
 
 ![](https://s18.postimg.org/dtsff0wjr/IMG_0018.jpg)

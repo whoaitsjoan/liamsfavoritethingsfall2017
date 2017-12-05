@@ -4,7 +4,6 @@ categories: []
 tags: []
 date:  2017-10-24
 description: ""
-menu: "main"
 ---
 
 I want to be a director when I grow up, specifically making trailers!

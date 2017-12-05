@@ -1,7 +1,6 @@
 ---
 title: "Television"
 date: 2017-10-24T10:33:48-04:00
-menu: "main"
 ---
 
 King of the Hill: 
