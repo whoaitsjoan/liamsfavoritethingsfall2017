@@ -1,6 +1,9 @@
 ---
 title: "My Favorite Trailers"
+categories: []
+tags: []
 date:  2017-12-12
+description: ""
 ---
 
 I really like movies, but I especially like movie trailers. Here are some of my favorites!

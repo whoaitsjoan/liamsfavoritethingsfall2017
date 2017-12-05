@@ -1,6 +1,9 @@
 ---
 title: "My Favorite Video Games"
+categories: []
+tags: []
 date: 2017-12-12
+description: ""
 ---
 
 Destiny 2:
