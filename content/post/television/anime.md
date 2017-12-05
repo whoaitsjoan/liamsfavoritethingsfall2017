@@ -31,4 +31,4 @@ This anime has a lot of good music in it.
 
 It's like a space western, and the intro is kinda like an old spy movie. 
 
-{{<youtube qqvsUs-iQvg>}} 
+{{<youtube LLT6Fm7JebM>}} 
