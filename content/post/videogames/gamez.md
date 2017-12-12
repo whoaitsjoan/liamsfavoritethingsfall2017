@@ -16,10 +16,6 @@ Mario Kart 8:
 Best powerups! The Blue Shell is my favorite powerup. I can play with Mii characters, they're my favorite racers.
 ![](https://s18.postimg.org/8kxehajbd/giphy_2.gif)
 
-Call of Duty: Infinite Warfare:
-My favorite weapons are the RPR-Evo, MV4, Volk, VPR, Mauler, Titan, KBS Longbow. So many cool weapons! 
-I also really the Zombies mode for the Pack-a-Punch . It takes some work, but it's very worth it. 
-
 
 Titanfall 2:
 I like this more than the first Titanfall, there's a lot of better Titans. The story is also a lot more interesting

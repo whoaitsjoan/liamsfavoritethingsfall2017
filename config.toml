@@ -6,7 +6,7 @@ relativeURLs = "true"
 canonifyURLs = "true"
 
 [Params]
-  author = "Liam"
+  author = "Joan Farnesa"
   subtitle = ""
   logo = "img/srm.png"
   favicon = "img/favicon.ico"
