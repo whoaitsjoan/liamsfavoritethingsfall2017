@@ -23,6 +23,7 @@ I really like the family dynamic on this show, it makes it more interesting for 
 
 ## Reboot:
 This early computer animation is really cool. I think it still holds up today. And sci-fi is always fun!
+![](https://cdn3.vox-cdn.com/thumbor/MBDKOFmVZX9xOWyRoodkGQFeqzg=/21x0:476x303/1280x854/cdn0.vox-cdn.com/uploads/chorus_image/image/46503660/reboot-bob-frisket-enzo-and-dot-matrix.0.0.jpg)
 
 ## That 70's Show:
 It's a great show that takes in the 1970's, from 1976 to 1979. A great 90's sitcom.
