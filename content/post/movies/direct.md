@@ -25,6 +25,7 @@ That trailer is already really funny, and that's why I decided to make clips for
 
 {{<youtube o-LuLglAeKU>}}
 
+This is a mashup video I made between Hyperdimension Neptunia and Robotech!
 
 {{<youtube EkGx1dr4kVQ>}}
 
