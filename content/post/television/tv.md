@@ -10,7 +10,7 @@ description: ""
 ## King of the Hill: 
 The animation is really good in this one. The characters are really good, too. Bobby Hill is probably my favorite,
 he's really funny!
-{{<youtube 8_7Orhey-g>}}
+{{<youtube _8_7Orhey-g>}}
 
 ## South Park:
 It's a really funny show! A very crude show, but that's why it's really good.
