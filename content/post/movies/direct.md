@@ -13,7 +13,7 @@ In my free time, I make movie trailers using a bunch of different clips. I have 
 making trailers for over a year using Sony Movie Studio after my dad gave it to me. 
 Most of them are horror movie trailers, and it's a lot of fun. 
 
-And it's really easy too, it only takes me about five minutes once I have all the clips I'm looking for.
+And it's really easy too, once I have all the clips I'm looking for.
 
 
 {{<youtube zl4askYOZX0>}}

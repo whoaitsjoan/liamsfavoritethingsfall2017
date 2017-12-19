@@ -8,7 +8,7 @@ description: ""
 ---
 
 ## King of the Hill: 
-The animation is really good in this one. The characters are really good, too. Bobby Hill is probably my favorite,
+The animation is really good in this show. The characters are really good, too. Bobby Hill is probably my favorite,
 he's really funny!
 {{<youtube _8_7Orhey-g>}}
 
